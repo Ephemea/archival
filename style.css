@@ -1,11 +1,19 @@
+
+
+
 body {
+    background: #1e2328 !important;
+    color: #e8eef2 !important;
+}
+
+/* body {
     font-family: Georgia, "Times New Roman", serif;
     background: #d9d6cf;
     color: #111;
     margin: 0;
     padding: 0;
     font-size: 15px;
-}
+} */
 
 header {
     background: #efede7;
