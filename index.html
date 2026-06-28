@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ephemea Archival</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1 id="archive-title">Ephemea Archival</h1>
+        <p id="archive-subtitle">Privately Owned Non-Profit</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#categories">Categories</a></li>
+            <li><a href="#search">Search</a></li>
+            <li><a href="#about">About</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="categories">
+            <h2>Categories</h2>
+            <div id="category-list"></div>
+        </section>
+
+        <section id="search">
+            <h2>Search</h2>
+            <input type="text" id="search-input" placeholder="Search by title, year, or keyword..." onkeyup="filterItems()">
+            <div id="search-results"></div>
+        </section>
+
+        <section id="about">
+            <h2>About</h2>
+            <p>placeholder 1.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p id="disclaimer">LEGAL DISCLAIMER: This is a private personal archive for historical and educational purposes only. Not affiliated with any government agency. All rights reserved.</p>
+        <p>&copy; © 2026 - Ephemea Archival</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
