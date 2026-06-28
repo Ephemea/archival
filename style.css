@@ -8,8 +8,8 @@ body {
 } 
 
 header {
-    background: #efede7;
-    border-bottom: 4px solid #2f2f2f;
+    background: #1e2328;
+    border-bottom: 4px solid #1e2328;
     padding: 22px 30px;
 }
 
@@ -23,12 +23,12 @@ h2 {
     font-size: 18px;
     margin: 20px 0 10px 0;
     padding: 6px 10px;
-    background: #e6e2da;
+    background: #1e2328;
     border: 1px solid #b9b4aa;
 }
 
 nav {
-    background: #e3dfd6;
+    background: #1e2328;
     border-bottom: 2px solid #9a958b;
     padding: 10px 30px;
 }
@@ -54,13 +54,13 @@ main {
     padding: 25px 30px;
     max-width: 1050px;
     margin: 0 auto;
-    background: #f6f4ee;
+    background: #1e2328;
     border-left: 2px solid #c2bdb2;
     border-right: 2px solid #c2bdb2;
 }
 
 .category {
-    background: #ffffff;
+    background: #1e2328;
     border: 2px solid #4a4a4a;
     margin-bottom: 25px;
     padding: 15px;
