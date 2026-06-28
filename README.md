@@ -1,6 +1,7 @@
 # Archival
-Ephemea Archival is a privately owned, non-profit archival effort. Ephemea Archival bases itself around collecting and preserving military documents &amp; books, though also including civilian books.
-
+Ephemea Archival is a privately owned archival effort. Ephemea Archival bases itself around collecting and preserving military documents &amp; books, though also including civilian books.
+Ephemea Archival preserves legally acquired books, manuals, reports, and historical documents for research, educational, and historical purposes. Materials remain the intellectual property of their respective copyright holders where applicable.
+100% of our revenue goes directly toward covering our operational costs and acquisition of material.
 # Mission
 The long term mission is to preserve and hold military history for many years, ensuring that research and interest in these materials will be preserved for years to come. 
 
@@ -63,7 +64,10 @@ Identity Verification: * For restricted materials, please upload a digital copy 
 
 (Image of verification)
 
-To protect your privacy, you are encouraged to redact (black out) document serial numbers or passport numbers before sending. Ephemea Archival strictly uses this media for identity verification; all ID files are permanently deleted from our email provider within 48 hours of successful application processing. Please note that if your request requires extended verification or if we are experiencing a high volume of requests, this retention period may be extended until your application is fully reviewed. We require sending files via password-protected PDFs. Password must be shared via Proton Drive, otherwise your request will often be denied. 
+To protect your privacy, you are encouraged to redact (black out) document serial numbers, passport numbers, or other unnecessary identifying information before submission. Ephemea Archival uses these documents solely for identity verification. Identity verification documents are normally deleted within 48 hours after successful processing. If additional verification is required, or during periods of unusually high request volume, documents may be retained only for as long as reasonably necessary to complete the review before being securely deleted.
+Identity documents must be submitted as password-protected PDF files. The password must be shared separately via Proton Drive. Applications submitted without password protection or with passwords transmitted through the same email may be delayed or denied.
+
+Identity verification is used solely to confirm applicant identity and eligibility for access to restricted collections. It is never used for marketing, profiling, or shared with third parties except where required by law.
 
 # Endorsement / Reference (Optional):
 
@@ -77,11 +81,11 @@ Please review and check the boxes with an X inside the [ ] below to signal your 
 
 [ ] Distribution: I agree not to redistribute, publish online, or sell any digital files or documents provided to me without explicit written consent from Ephemea Archival.
 
-[ ] Attribution: I agree to properly credit "Ephemea Archival" in any final publications, papers, or projects that utilize these materials.
+[ ] Attribution: I acknowledge Ephemea Archival as the source of any materials where appropriate and permitted, and will incorporate this acknowledgement into published works.
 
-[ ] Restricted Material: I agree that materials provided by Ephemea Archival, that are currently restricted instead of declassified, are not included in any form inside this request.  
+[ ] Restricted Content Acknowledgement: I understand that currently restricted or classified materials are not available through this request process.
 
 [ ] PII (Personal Identifiable Information) Retention: I agree that Ephemea Archival may retain my provided identity verification documents for longer than 48 hours if my request requires extra processing, is delayed due to high submission volume, or is held for administrative auditing.
 
-[ ] Access Expiration: I understand that access to these digital assets is not permanent and can be removed from access at any time by discretion of staff after the access link is issued.
+[ ] Access Expiration: I understand that access to these digital assets is not permanent and may be revoked at any time at the discretion of archive staff.
 </blockquote>
