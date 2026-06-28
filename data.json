@@ -1,83 +1,158 @@
 {
   "title": "Ephemea Archival",
-  "subtitle": "UCS stands for Uniform Code System - a term used by Ephemea Archival to describe non-standard military documents and/or books without a publication prefix. (e.g 'TM') ",
+  "subtitle": "UCS stands for Uniform Code System - a term used by Ephemea Archival to describe non-standard military documents and/or books without a publication prefix. (e.g 'TM')",
   "categories": [
     {
       "name": "Pre-UCS",
       "items": [
-        {"year": "1936", "title": "FIELD ARTILLERY - MILITARY FUNDAMENTALS - BOOK 20 - US Army", "notes": "Inscribed - Yard Scale Intact"}
+        {
+          "year": "1936",
+          "title": "FIELD ARTILLERY - MILITARY FUNDAMENTALS - BOOK 20 - US Army",
+          "notes": "Inscribed - Yard Scale Intact"
+        }
       ]
     },
     {
       "name": "Multi-UCS",
       "items": [
-        {"year": "1972", "title": "FM 8-8 / NAVMED P-5047 / AFM 160-20 - Medical Support in Joint Operations", "notes": ""},
-        {"year": "1960", "title": "FM 23-35 / AFM 50-17 - PISTOLS AND REVOLVERS", "notes": ""}
+        {
+          "year": "1972",
+          "title": "FM 8-8 / NAVMED P-5047 / AFM 160-20 - Medical Support in Joint Operations",
+          "notes": ""
+        },
+        {
+          "year": "1960",
+          "title": "FM 23-35 / AFM 50-17 - PISTOLS AND REVOLVERS",
+          "notes": ""
+        }
       ]
     },
     {
       "name": "FM",
       "items": [
-        {"year": "1942", "title": "FM 21-46 - PROTECTIVE MEASURES, INDIVIDUAL AND SMALL UNITS", "notes": ""},
-        {"year": "1943", "title": "FM 21-30 - CONVENTIONAL SIGNS, MILITARY SYMBOLS, AND ABBREVIATIONS", "notes": "Inscribed"},
-        {"year": "1943", "title": "FM 23-41 - SUBMACHINE GUN CALIBER .45, M3", "notes": ""},
-        {"year": "1940", "title": "FM 30-10 - MILITARY INTELLIGENCE: OBSERVATION", "notes": ""},
-        {"year": "1940", "title": "FM 30-20 - MILITARY INTELLIGENCE: MILITARY MAPS", "notes": ""}
+        {
+          "year": "1942",
+          "title": "FM 21-46 - PROTECTIVE MEASURES, INDIVIDUAL AND SMALL UNITS",
+          "notes": ""
+        },
+        {
+          "year": "1943",
+          "title": "FM 21-30 - CONVENTIONAL SIGNS, MILITARY SYMBOLS, AND ABBREVIATIONS",
+          "notes": "Inscribed"
+        },
+        {
+          "year": "1943",
+          "title": "FM 23-41 - SUBMACHINE GUN CALIBER .45, M3",
+          "notes": ""
+        },
+        {
+          "year": "1940",
+          "title": "FM 30-10 - MILITARY INTELLIGENCE: OBSERVATION",
+          "notes": ""
+        },
+        {
+          "year": "1940",
+          "title": "FM 30-20 - MILITARY INTELLIGENCE: MILITARY MAPS",
+          "notes": ""
+        }
       ]
     },
     {
       "name": "NAVPERS",
       "items": [
-        {"year": "1952", "title": "NAVPERS 10220 - TELEMAN NAVY TRAINING COURSES", "notes": "Inscribed"}
+        {
+          "year": "1952",
+          "title": "NAVPERS 10220 - TELEMAN NAVY TRAINING COURSES",
+          "notes": "Inscribed"
+        }
       ]
     },
     {
       "name": "AFM",
       "items": [
-        {"year": "1952", "title": "AFM 52-15 - INSTRUCTOR’S GUIDE TO BASIC CIRCUITS", "notes": ""},
-        {"year": "1956, PALADIN PRESS REPRINT CIRCA 1970s", "title": "Afoot In The Desert - A Contribution to Basic Survival", "notes": "ADTIC Publication No. D-100"}
+        {
+          "year": "1952",
+          "title": "AFM 52-15 - INSTRUCTOR’S GUIDE TO BASIC CIRCUITS",
+          "notes": ""
+        },
+        {
+          "year": "1956, PALADIN PRESS REPRINT CIRCA 1970s",
+          "title": "Afoot In The Desert - A Contribution to Basic Survival",
+          "notes": "ADTIC Publication No. D-100"
+        }
       ]
     },
     {
       "name": "OPNAV",
       "items": [
-        {"year": "1960", "title": "OPNAV P-34-03 - EXTRACTS LANDING PARTY MANUAL", "notes": ""}
+        {
+          "year": "1960",
+          "title": "OPNAV P-34-03 - EXTRACTS LANDING PARTY MANUAL",
+          "notes": ""
+        }
       ]
     },
     {
       "name": "EM",
       "items": [
-        {"year": "1944", "title": "EM 469 - ELECTRICITY AND MAGNETISM", "notes": ""}
+        {
+          "year": "1944",
+          "title": "EM 469 - ELECTRICITY AND MAGNETISM",
+          "notes": ""
+        }
       ]
     },
     {
       "name": "NAVWEARSCHFAC",
       "items": [
-        {"year": "1970", "title": "NAVWEARSCHFAC TECHNICAL PAPER NO. 16-69(REV.) - TROPICAL CYCLONE EVASION PLANNING", "notes": ""},
-        {"year": "1968", "title": "NAVWEARSCHFAC TECHNICAL PAPER NO. 8-68 - A DIGEST OF THE INTERPRETATION OF METEOROLOGICAL SATELLITE DATA", "notes": ""}
+        {
+          "year": "1970",
+          "title": "NAVWEARSCHFAC TECHNICAL PAPER NO. 16-69(REV.) - TROPICAL CYCLONE EVASION PLANNING",
+          "notes": ""
+        },
+        {
+          "year": "1968",
+          "title": "NAVWEARSCHFAC TECHNICAL PAPER NO. 8-68 - A DIGEST OF THE INTERPRETATION OF METEOROLOGICAL SATELLITE DATA",
+          "notes": ""
+        }
       ]
     },
     {
       "name": "NWC",
       "items": [
-        {"year": "1971", "title": "NWC TP 5098 – HOTSHOT 1970: A Study of the Modification of Rain Parameters by Cloud Seeding", "notes": ""}
+        {
+          "year": "1971",
+          "title": "NWC TP 5098 – HOTSHOT 1970: A Study of the Modification of Rain Parameters by Cloud Seeding",
+          "notes": ""
+        }
       ]
     },
     {
       "name": "TM",
       "items": [
-        {"year": "1947", "title": "TM 9-2700 - PRINCIPLES OF AUTOMOTIVE VEHICLES", "notes": ""}
+        {
+          "year": "1947",
+          "title": "TM 9-2700 - PRINCIPLES OF AUTOMOTIVE VEHICLES",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "DOL",
+      "items": [
+        {
+          "year": "1939",
+          "title": "OUTLINE OF PROCEDURE For Trials Before COURTS-MARTIAL",
+          "notes": "Inscribed"
+        }
       ]
     }
   ],
   "uncategorized": [
-    {"year": "1966", "title": "TR-172 – Submarine Geomorphology of Eastern Ross Sea and Sulzberger Bay, Antarctica", "notes": "U.S. Naval Oceanographic Office - Pending categorization"}]
+    {
+      "year": "1966",
+      "title": "TR-172 – Submarine Geomorphology of Eastern Ross Sea and Sulzberger Bay, Antarctica",
+      "notes": "U.S. Naval Oceanographic Office - 🚨 PENDING CATEGORY"
+    }
+  ]
 }
-],
-
-"name": "DOL", 
-"items": [
-{"year": "1939", "title": "OUTLINE OF PROCEDURE For Trials Before COURTS-MARTIAL", "notes": "Inscribed"}
-]
-}
-
