@@ -8,7 +8,8 @@
         {
           "year": "1936",
           "title": "FIELD ARTILLERY - MILITARY FUNDAMENTALS - BOOK 20 - US Army",
-          "notes": "Inscribed - Yard Scale Intact"
+          "notes": "Inscribed - Yard Scale Intact",
+          "declassified": false
         }
       ]
     },
@@ -18,12 +19,14 @@
         {
           "year": "1972",
           "title": "FM 8-8 / NAVMED P-5047 / AFM 160-20 - Medical Support in Joint Operations",
-          "notes": ""
+          "notes": "",
+          "declassified": false
         },
         {
           "year": "1960",
           "title": "FM 23-35 / AFM 50-17 - PISTOLS AND REVOLVERS",
-          "notes": ""
+          "notes": "",
+          "declassified": false
         }
       ]
     },
@@ -33,27 +36,32 @@
         {
           "year": "1942",
           "title": "FM 21-46 - PROTECTIVE MEASURES, INDIVIDUAL AND SMALL UNITS",
-          "notes": ""
+          "notes": "",
+          "declassified": false
         },
         {
           "year": "1943",
           "title": "FM 21-30 - CONVENTIONAL SIGNS, MILITARY SYMBOLS, AND ABBREVIATIONS",
-          "notes": "Inscribed"
+          "notes": "Inscribed",
+          "declassified": false
         },
         {
           "year": "1943",
           "title": "FM 23-41 - SUBMACHINE GUN CALIBER .45, M3",
-          "notes": ""
+          "notes": "",
+          "declassified": false
         },
         {
           "year": "1940",
           "title": "FM 30-10 - MILITARY INTELLIGENCE: OBSERVATION",
-          "notes": ""
+          "notes": "",
+          "declassified": true
         },
         {
           "year": "1940",
           "title": "FM 30-20 - MILITARY INTELLIGENCE: MILITARY MAPS",
-          "notes": ""
+          "notes": "",
+          "declassified": true
         }
       ]
     },
@@ -63,7 +71,8 @@
         {
           "year": "1952",
           "title": "NAVPERS 10220 - TELEMAN NAVY TRAINING COURSES",
-          "notes": "Inscribed"
+          "notes": "Inscribed",
+          "declassified": true
         }
       ]
     },
@@ -73,12 +82,14 @@
         {
           "year": "1952",
           "title": "AFM 52-15 - INSTRUCTOR’S GUIDE TO BASIC CIRCUITS",
-          "notes": ""
+          "notes": "",
+          "declassified": false
         },
         {
           "year": "1956, PALADIN PRESS REPRINT CIRCA 1970s",
           "title": "Afoot In The Desert - A Contribution to Basic Survival",
-          "notes": "ADTIC Publication No. D-100"
+          "notes": "ADTIC Publication No. D-100",
+          "declassified": false
         }
       ]
     },
@@ -88,7 +99,8 @@
         {
           "year": "1960",
           "title": "OPNAV P-34-03 - EXTRACTS LANDING PARTY MANUAL",
-          "notes": ""
+          "notes": "",
+          "declassified": false
         }
       ]
     },
@@ -98,7 +110,8 @@
         {
           "year": "1944",
           "title": "EM 469 - ELECTRICITY AND MAGNETISM",
-          "notes": ""
+          "notes": "",
+          "declassified": false
         }
       ]
     },
@@ -108,12 +121,14 @@
         {
           "year": "1970",
           "title": "NAVWEARSCHFAC TECHNICAL PAPER NO. 16-69(REV.) - TROPICAL CYCLONE EVASION PLANNING",
-          "notes": ""
+          "notes": "",
+          "declassified": true
         },
         {
           "year": "1968",
           "title": "NAVWEARSCHFAC TECHNICAL PAPER NO. 8-68 - A DIGEST OF THE INTERPRETATION OF METEOROLOGICAL SATELLITE DATA",
-          "notes": ""
+          "notes": "",
+          "declassified": true
         }
       ]
     },
@@ -123,7 +138,8 @@
         {
           "year": "1971",
           "title": "NWC TP 5098 – HOTSHOT 1970: A Study of the Modification of Rain Parameters by Cloud Seeding",
-          "notes": ""
+          "notes": "",
+          "declassified": false
         }
       ]
     },
@@ -133,7 +149,8 @@
         {
           "year": "1947",
           "title": "TM 9-2700 - PRINCIPLES OF AUTOMOTIVE VEHICLES",
-          "notes": ""
+          "notes": "",
+          "declassified": false
         }
       ]
     },
@@ -143,7 +160,8 @@
         {
           "year": "1939",
           "title": "OUTLINE OF PROCEDURE For Trials Before COURTS-MARTIAL",
-          "notes": "Inscribed"
+          "notes": "Inscribed",
+          "declassified": false
         }
       ]
     }
@@ -152,7 +170,8 @@
     {
       "year": "1966",
       "title": "TR-172 – Submarine Geomorphology of Eastern Ross Sea and Sulzberger Bay, Antarctica",
-      "notes": "U.S. Naval Oceanographic Office - 🚨 PENDING CATEGORY"
+      "notes": "U.S. Naval Oceanographic Office - 🚨 PENDING CATEGORY",
+      "declassified": false
     }
   ]
 }
