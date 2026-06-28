@@ -13,7 +13,8 @@ For sensitive documents and or books, require a form of identification (passport
 Applicants must respond to these questions that follow.
 
 <blockquote>
-# ⚠ WARNING-WARNING-WARNING
+  
+### ⚠ WARNING-WARNING-WARNING ⚠
 Please do this over secure email. Ephemea Archival will only ask or accept this info via @ephemea.proton.me - do not give personal information to anything else but this email during requests.
 
   
