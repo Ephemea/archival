@@ -29,14 +29,14 @@ function renderArchive() {
         cat.items.forEach(item => {
             const li = document.createElement('li');
             li.className = 'item';
-            li.innerHTML = `<strong>[${item.year}] ${item.title}</strong><br><em>${item.notes || ''}</em>`;
+            const badge = item.declassified ? `<span class="declassified-badge">DECLASSIFIED</span> ` : '';
+            li.innerHTML = `<strong>[${item.year}] ${item.title}</strong> ${badge}<br><em>${item.notes || ''}</em>`;
             ul.appendChild(li);
         });
         div.appendChild(ul);
         container.appendChild(div);
     });
 
-    // Uncategorized
     if (archiveData.uncategorized && archiveData.uncategorized.length > 0) {
         const div = document.createElement('div');
         div.className = 'category';
@@ -45,7 +45,8 @@ function renderArchive() {
         archiveData.uncategorized.forEach(item => {
             const li = document.createElement('li');
             li.className = 'item';
-            li.innerHTML = `<strong>[${item.year}] ${item.title}</strong><br><em>${item.notes || ''}</em>`;
+            const badge = item.declassified ? `<span class="declassified-badge">DECLASSIFIED</span> ` : '';
+            li.innerHTML = `<strong>[${item.year}] ${item.title}</strong> ${badge}<br><em>${item.notes || ''}</em>`;
             ul.appendChild(li);
         });
         div.appendChild(ul);
@@ -91,7 +92,8 @@ function filterItems() {
     found.forEach(item => {
         const li = document.createElement('li');
         li.className = 'item';
-        li.innerHTML = `<strong>[${item.cat}] [${item.year}] ${item.title}</strong><br><em>${item.notes || ''}</em>`;
+        const badge = item.declassified ? `<span class="declassified-badge">DECLASSIFIED</span> ` : '';
+        li.innerHTML = `<strong>[${item.cat}] [${item.year}] ${item.title}</strong> ${badge}<br><em>${item.notes || ''}</em>`;
         ul.appendChild(li);
     });
     results.appendChild(ul);
