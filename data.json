@@ -1,3 +1,4 @@
+JSON
 {
   "title": "Ephemea Archival",
   "subtitle": "UCS stands for Uniform Code System - a term used by Ephemea Archival to describe non-standard military documents and/or books without a publication prefix. (e.g 'TM')",
@@ -155,7 +156,7 @@
       ]
     },
     {
-      "name": "USMA",
+      "name": "UMSA",
       "items": [
         {
           "year": "1939",
@@ -164,14 +165,18 @@
           "declassified": false
         }
       ]
+    },
+    {
+      "name": "NAVOCEANO",
+      "items": [
+        {
+          "year": "1966",
+          "title": "TR-172 – Submarine Geomorphology of Eastern Ross Sea and Sulzberger Bay, Antarctica",
+          "notes": "U.S. Naval Oceanographic Office",
+          "declassified": false
+        }
+      ]
     }
   ],
-  "uncategorized": [
-    {
-      "year": "1966",
-      "title": "TR-172 – Submarine Geomorphology of Eastern Ross Sea and Sulzberger Bay, Antarctica",
-      "notes": "U.S. Naval Oceanographic Office : PENDING CATEGORY DUE 6/30/2026 00:00 PT",
-      "declassified": false
-    }
-  ]
+  "uncategorized": []
 }
