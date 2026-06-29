@@ -1,93 +1,102 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&family=Public+Sans:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap');
+
 body {
     margin: 0;
     padding: 0;
-    background: #1a1a1a;
-    color: #dfdfdf;
-    font-family: "Public Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    font-size: 15px;
-    line-height: 1.5;
+    background: #f0f0f0; 
+    color: #212121; 
+    font-family: "Public Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
 }
 
 header {
-    background: #111111;
-    border-bottom: 2px solid #555555;
+    background: #112e51; 
+    border-bottom: 4px solid #323a45;
     padding: 24px 32px;
+    color: #ffffff;
 }
+
 h1 {
     margin: 0;
-    font-size: 28px;
-    font-weight: bold;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: "Merriweather", Georgia, serif;
     letter-spacing: -0.5px;
-    font-family: "Merriweather", Georgia, Cambria, "Times New Roman", Times, serif;
+    color: #ffffff; 
 }
 
 header p {
-    margin-top: 6px;
-    color: #aaaaaa;
-    font-size: 13px;
-    font-family: "Courier New", Courier, monospace;
+    margin-top: 8px;
+    color: #adcded; 
+    font-size: 14px;
+    font-family: "Public Sans", sans-serif; 
 }
 
 nav {
-    background: #222222;
-    border-bottom: 1px solid #444444;
+    background: #205493; 
+    border-bottom: 1px solid #112e51;
 }
 
 nav ul {
     margin: 0;
-    padding: 8px 32px;
+    padding: 10px 32px;
     list-style: none;
 }
 
 nav li {
     display: inline-block;
-    margin-right: 0;
+    margin-right: 15px;
 }
 
 nav a {
-    color: #4da6ff;
-    text-decoration: underline;
+    color: #ffffff;
+    text-decoration: none;
     font-size: 14px;
-    padding: 6px 12px;
-    display: inline-block;
-    font-family: "Public Sans", sans-serif;
     font-weight: 600;
+    padding: 4px 8px;
+    display: inline-block;
 }
 
 nav a:hover {
     color: #ffffff;
-    background: #333333;
+    text-decoration: underline;
+    background: #112e51;
 }
 
 main {
-    max-width: 1024px;
-    margin: 24px auto;
+    max-width: 1200px;
+    margin: 40px auto;
     padding: 0 32px;
+    background: #ffffff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    border-radius: 4px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .category {
-    margin-bottom: 28px;
-    padding: 16px;
-    background: #202020;
-    border: 1px solid #3c3c3c;
+    margin-bottom: 35px;
+    padding: 0;
+    background: transparent;
+    border: none; 
 }
 
 h2 {
-    margin: 0 0 12px;
-    font-size: 18px;
-    font-weight: bold;
-    color: #ffffff;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    border-bottom: 1px solid #444444;
-    padding-bottom: 4px;
-    font-family: "Merriweather", Georgia, Cambria, "Times New Roman", Times, serif;
+    margin: 0 0 16px;
+    font-size: 24px;
+    font-weight: 700;
+    color: #212121;
+    text-transform: none; 
+    letter-spacing: normal;
+    border-bottom: 2px solid #cdcfd1; 
+    padding-bottom: 8px;
+    font-family: "Merriweather", Georgia, serif;
 }
 
 .item {
-    padding: 10px 4px;
-    border-bottom: 1px dotted #444444;
+    padding: 12px 0;
+    border-bottom: 1px solid #e1e1e1; 
 }
 
 .item:last-child {
@@ -96,54 +105,59 @@ h2 {
 
 .item-title {
     font-weight: bold;
-    color: #ffffff;
-}
-
-.item-meta {
-    color: #888888;
-    font-size: 13px;
-    font-family: "Courier New", Courier, monospace;
-    margin-top: 2px;
-}
-
-#search-input {
-    width: 100%;
-    padding: 8px 12px;
-    margin-bottom: 24px;
-    background: #000000;
-    color: #00ff00;
-    border: 1px solid #555555;
-    font-family: "Courier New", Courier, monospace;
-    font-size: 14px;
-    box-sizing: border-box;
-    border-radius: 0;
-}
-
-#search-input:focus {
-    outline: 2px solid #4da6ff;
-    border-color: #555555;
-}
-
-footer {
-    margin-top: 48px;
-    padding: 24px;
-    border-top: 2px double #444444;
-    text-align: left;
-    font-size: 12px;
-    color: #777777;
-    font-family: sans-serif;
+    color: #0071bc; 
+    font-size: 16px;
+    display: inline-block; 
+    vertical-align: middle;
 }
 
 .declassified-badge {
     display: inline-block;
-    margin-left: 8px;
-    padding: 1px 5px;
-    border: 2px dashed #a03333;
-    color: #ff4d4d;
-    font-size: 11px;
-    font-weight: bold;
-    font-family: "Courier New", Courier, monospace;
+    vertical-align: middle;
+    margin-left: 12px;
+    padding: 2px 8px;
+    border: 2px dashed #cd2026; 
+    color: #cd2026; 
+    font-size: 12px;
+    font-weight: 700;
+    font-family: "Courier New", Courier, monospace; 
     text-transform: uppercase;
-    background: rgba(160, 51, 51, 0.1);
-    transform: rotate(-1deg);
+    background: rgba(205, 32, 38, 0.05); 
+   /* transform: rotate(-2deg);*/
+}
+.item-meta {
+    color: #666666;
+    font-size: 14px;
+    font-family: "Public Sans", sans-serif;
+    margin-top: 4px;
+    font-style: italic;
+}
+
+#search-input {
+    width: 100%;
+    max-width: 400px;
+    padding: 10px;
+    margin-bottom: 30px;
+    background: #ffffff;
+    color: #212121;
+    border: 1px solid #757575;
+    font-family: "Public Sans", sans-serif;
+    font-size: 15px;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+#search-input:focus {
+    outline: 3px solid #0071bc;
+}
+
+footer {
+    margin-top: 60px;
+    padding: 40px 32px;
+    background: #f0f0f0;
+    border-top: 1px solid #d6d7d9;
+    text-align: left;
+    font-size: 14px;
+    color: #454545;
+    font-family: "Public Sans", sans-serif;
 }
