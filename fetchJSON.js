@@ -66,7 +66,7 @@ function filterItems() {
     archiveData.categories.forEach(cat => {
         cat.items.forEach(item => {
             if (item.title.toLowerCase().includes(query) || 
-                item.year.includes(query) ||
+                item.year.toLowerCase().includes(query) || 
                 (item.notes && item.notes.toLowerCase().includes(query))) {
                 found.push({cat: cat.name, ...item});
             }
@@ -76,7 +76,7 @@ function filterItems() {
     if (archiveData.uncategorized) {
         archiveData.uncategorized.forEach(item => {
             if (item.title.toLowerCase().includes(query) || 
-                item.year.includes(query) ||
+                item.year.toLowerCase().includes(query) || 
                 (item.notes && item.notes.toLowerCase().includes(query))) {
                 found.push({cat: 'Uncategorized', ...item});
             }
