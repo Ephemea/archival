@@ -9,7 +9,7 @@ window.onload = function() {
         })
         .catch(err => {
             console.error(err);
-            document.getElementById('category-list').innerHTML = '<p style="color:red;">Could not load data.json</p>';
+            document.getElementById('category-list').innerHTML = '<p style="color:red;">Could not load data.json. Ensure that JavaScript is turned on. Is JavaScript on and the page still will not load? Please contact support at @ephemea.proton.me</p>';
         });
 };
 
