@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&family=Public+Sans:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap');
 body {
     margin: 0;
     padding: 0;
     background: #1a1a1a;
     color: #dfdfdf;
-    font-family: "Times New Roman", Times, Georgia, serif;
+    font-family: "Public Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     font-size: 15px;
     line-height: 1.5;
 }
@@ -13,12 +14,12 @@ header {
     border-bottom: 2px solid #555555;
     padding: 24px 32px;
 }
-
 h1 {
     margin: 0;
     font-size: 28px;
     font-weight: bold;
     letter-spacing: -0.5px;
+    font-family: "Merriweather", Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
 header p {
@@ -50,6 +51,8 @@ nav a {
     font-size: 14px;
     padding: 6px 12px;
     display: inline-block;
+    font-family: "Public Sans", sans-serif;
+    font-weight: 600;
 }
 
 nav a:hover {
@@ -79,6 +82,7 @@ h2 {
     letter-spacing: 0.5px;
     border-bottom: 1px solid #444444;
     padding-bottom: 4px;
+    font-family: "Merriweather", Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
 .item {
